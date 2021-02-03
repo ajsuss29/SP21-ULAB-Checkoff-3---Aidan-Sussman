@@ -1,0 +1,1 @@
+The git remote command allows you to perform actions and manage various other repostiories 
